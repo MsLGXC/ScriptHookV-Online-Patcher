@@ -1,5 +1,8 @@
 # ScriptHookVOnlinePatcher - SHV钩子线上修补器
 
+# 由于BattleEyes更新，此项目以及SHV可能已无存在必要（也许）
+# Due to BattleEyes updates, this project and SHV may no longer be necessary (perhaps)
+
 This program will patch ScriptHookV.dll to bypass online mode crash.<br>
 In theory, SHV updates should not destory this program, so it is applicable to any version.<br><br>
 这个程序将修补ScriptHookV.dll以绕过在线模式崩溃<br>
